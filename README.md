@@ -12,3 +12,5 @@ php bin/console server:run
 yarn install
 
 yarn start
+
+Anmelden mit user:password
